@@ -1,13 +1,8 @@
-# (UPDATE IN README.md) Project Title
+# Investigating Artificial Light at Night and Bird Migration Patterns in Vermont and New Jersey
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
+Artificial Light at Night has become one of the most widespread and rapidly intensifying forms of environmental disturbance. Nocturnally migrating birds depend on natural celestial and geomagnetic cues, and exposure to artificial lighting can disrupt these navigation systems. This project examines how light intensity at night relates to changes in migration intensity, altitude, speed, and directional patterns. The study compares Vermont, a predominantly rural and dark state, with New Jersey, one of the most urbanized regions in the country, to capture contrasting lighting environments across the migration corridor.
 
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
-
-
-## Problem Statement <!--- do not change this line -->
+## Problem Statement
 
 (UPDATE IN README.md)
 Describe the motivation for this project, why it is relevant, and what its impacts are.
